@@ -1,1 +1,1 @@
-print("hello"  + " CKP")
+print("hello " + " CKP")
