@@ -9,5 +9,5 @@ word = "Programming is fun!"
 
 for letter in word:
     # Only print out the letter i
-    if letter == "i":
+    if letter == "m":
         print(letter)
