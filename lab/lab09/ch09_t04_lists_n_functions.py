@@ -7,3 +7,5 @@ def fizz_count(x: List[str]):
         if item == "fizz":
             count += 1
     return count
+
+print(fizz_count(["fizz,"cat"]))
