@@ -1,1 +1,1 @@
-print("write somethingggggggggggggggggggggggggggggggggg")
+print("write something")
