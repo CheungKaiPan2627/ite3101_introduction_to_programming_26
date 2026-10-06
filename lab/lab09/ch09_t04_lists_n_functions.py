@@ -1,5 +1,6 @@
 # Write your function below!
 
 def fizz_count(x:list[str]):
-    count 
+    count  = 0
+    
     
