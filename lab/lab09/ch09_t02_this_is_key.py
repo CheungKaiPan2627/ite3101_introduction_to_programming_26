@@ -4,7 +4,6 @@ webster = {
     "Carpet": "Goes on the floor.",
     "Dab": "A small amount."
 }
-
 # Add your code below!
 for key in webster:
     print(key)
