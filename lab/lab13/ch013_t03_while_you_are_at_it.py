@@ -6,3 +6,4 @@ while False:  # Fill in the condition
 # Increment num (make sure to do this!)
      print(num **2)
     
+    
