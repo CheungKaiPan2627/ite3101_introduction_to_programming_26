@@ -1,4 +1,4 @@
-board = []
+board = [i]
 for i in range(5):
     board.append("O" * 5)
 
