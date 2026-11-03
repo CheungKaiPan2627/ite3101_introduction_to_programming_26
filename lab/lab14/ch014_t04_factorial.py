@@ -1,3 +1,4 @@
 def factorial(x:int) -> int:
     value  = 1
-    for i in range(1, x=x+1 )
+    for i in range(1, x=x+1):
+        
